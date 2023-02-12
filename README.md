@@ -3,4 +3,4 @@ A collection of assignments and other coursework for the Statistical Machine Lea
 
 ## Brief Contents
 ### Assignment 1
-MNIST Digit Recognition using PCA and kNN
+MNIST Handwritten Digit Recognition using PCA and kNN
